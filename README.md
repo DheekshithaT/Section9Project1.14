@@ -1,4 +1,4 @@
-# Section9Project1.14-3-
+# Section 9 Project 1.14
 An OOP Based System for Storing School Data Using Design Patterns.
 
 "RainBowSchool.sln" file contains the code for the project which displays:
