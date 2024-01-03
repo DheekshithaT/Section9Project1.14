@@ -3,5 +3,5 @@ Section 9-Project 1.14
 
 "RainBowSchool.sln" file contains the code for the project which displays:
 
-The list of students from a particular class
-The List of Subjects the teacher teaches to the students.
+1. The list of students from a particular class
+2. The List of Subjects the teacher teaches to the students.
