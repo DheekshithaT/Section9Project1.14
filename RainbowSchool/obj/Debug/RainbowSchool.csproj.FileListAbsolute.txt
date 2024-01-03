@@ -1,0 +1,7 @@
+C:\Users\91807\Desktop\December\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\December\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\December\RainbowSchool\RainbowSchool\bin\Debug\RainbowSchool.exe.config
+C:\Users\91807\Desktop\December\RainbowSchool\RainbowSchool\bin\Debug\RainbowSchool.exe
+C:\Users\91807\Desktop\December\RainbowSchool\RainbowSchool\bin\Debug\RainbowSchool.pdb
+C:\Users\91807\Desktop\December\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.exe
+C:\Users\91807\Desktop\December\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.pdb
